@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   //wechat: 'shenzhen1531',
-  //mail: 'tincker@163.com',
-  //linkedin: 'renshenzhen',
+  github: 'renshenzhen',
+  linkedin: 'renshenzhen',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
